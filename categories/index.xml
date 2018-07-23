@@ -10,50 +10,5 @@
 	<atom:link href="http://www.cetera.lv/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>It</title>
-      <link>http://www.cetera.lv/categories/it/</link>
-      <pubDate>Sun, 24 Jun 2018 13:53:46 +0200</pubDate>
-      
-      <guid>http://www.cetera.lv/categories/it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pārvaldība</title>
-      <link>http://www.cetera.lv/categories/p%C4%81rvald%C4%ABba/</link>
-      <pubDate>Sun, 24 Jun 2018 13:53:46 +0200</pubDate>
-      
-      <guid>http://www.cetera.lv/categories/p%C4%81rvald%C4%ABba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strategy</title>
-      <link>http://www.cetera.lv/categories/strategy/</link>
-      <pubDate>Sun, 24 Jun 2018 13:53:46 +0200</pubDate>
-      
-      <guid>http://www.cetera.lv/categories/strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>http://www.cetera.lv/categories/technology/</link>
-      <pubDate>Mon, 24 Jul 2017 13:50:46 +0200</pubDate>
-      
-      <guid>http://www.cetera.lv/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ts</title>
-      <link>http://www.cetera.lv/categories/ts/</link>
-      <pubDate>Mon, 11 Jun 2018 13:50:46 +0200</pubDate>
-      
-      <guid>http://www.cetera.lv/categories/ts/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
