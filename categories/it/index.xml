@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It on Cetera</title>
+    <link>http://www.cetera.lv/categories/it/</link>
+    <description>Recent content in It on Cetera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lv-lv</language>
+    <lastBuildDate>Mon, 11 Jun 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.cetera.lv/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otrs projekts</title>
+      <link>http://www.cetera.lv/projects/my-first-project2/</link>
+      <pubDate>Mon, 11 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.cetera.lv/projects/my-first-project2/</guid>
+      <description>Virsraksts Teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts</description>
+    </item>
+    
+  </channel>
+</rss>

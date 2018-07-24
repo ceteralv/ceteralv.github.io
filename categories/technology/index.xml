@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Cetera</title>
+    <link>http://www.cetera.lv/categories/technology/</link>
+    <description>Recent content in Technology on Cetera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lv-lv</language>
+    <lastBuildDate>Mon, 24 Jul 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.cetera.lv/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dienasgrāmata #2</title>
+      <link>http://www.cetera.lv/posts/blog2/</link>
+      <pubDate>Mon, 24 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.cetera.lv/posts/blog2/</guid>
+      <description>Virsraksts Teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts</description>
+    </item>
+    
+  </channel>
+</rss>

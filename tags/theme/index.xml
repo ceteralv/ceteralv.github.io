@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on Cetera</title>
+    <link>http://www.cetera.lv/tags/theme/</link>
+    <description>Recent content in Theme on Cetera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lv-lv</language>
+    <lastBuildDate>Mon, 11 Jun 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.cetera.lv/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otrs projekts</title>
+      <link>http://www.cetera.lv/projects/my-first-project2/</link>
+      <pubDate>Mon, 11 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.cetera.lv/projects/my-first-project2/</guid>
+      <description>Virsraksts Teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts</description>
+    </item>
+    
+    <item>
+      <title>Sample Post</title>
+      <link>http://www.cetera.lv/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Jun 2017 13:50:46 +0200</pubDate>
+      
+      <guid>http://www.cetera.lv/posts/my-first-post/</guid>
+      <description>Virsraksts Teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts teksts</description>
+    </item>
+    
+  </channel>
+</rss>
