@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.cetera.lv/projects/project3/</loc>
+    <loc>http://test.cetera.lv/projects/project3/</loc>
     <lastmod>2018-06-24T13:53:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/projects/project4/</loc>
+    <loc>http://test.cetera.lv/projects/project4/</loc>
     <lastmod>2018-06-24T13:53:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/projects/project5/</loc>
+    <loc>http://test.cetera.lv/projects/project5/</loc>
     <lastmod>2018-06-24T13:53:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/projects/my-first-project2/</loc>
+    <loc>http://test.cetera.lv/projects/my-first-project2/</loc>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/projects/project1/</loc>
+    <loc>http://test.cetera.lv/projects/project1/</loc>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/posts/blog2/</loc>
+    <loc>http://test.cetera.lv/posts/blog2/</loc>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/posts/my-first-post/</loc>
+    <loc>http://test.cetera.lv/posts/my-first-post/</loc>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/categories/</loc>
+    <loc>http://test.cetera.lv/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/</loc>
-    <lastmod>2018-06-24T13:53:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.cetera.lv/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.cetera.lv/projects/</loc>
+    <loc>http://test.cetera.lv/</loc>
     <lastmod>2018-06-24T13:53:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.cetera.lv/tags/</loc>
+    <loc>http://test.cetera.lv/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://test.cetera.lv/projects/</loc>
+    <lastmod>2018-06-24T13:53:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://test.cetera.lv/tags/</loc>
     <priority>0</priority>
   </url>
   
